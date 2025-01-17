@@ -1,6 +1,6 @@
-# PoliDnus
+# PoliDinus
   
-WebPoliBK adalah aplikasi berbasis web yang dirancang untuk mempermudah pengelolaan data pasien dan jadwal pemeriksaan di klinik. Proyek ini dibangun menggunakan PHP dan MySQL, dan memanfaatkan XAMPP sebagai server lokal.  
+PoliDinus adalah aplikasi berbasis web yang dirancang untuk mempermudah pengelolaan PoliKlinik. Proyek ini dibangun menggunakan PHP dan MySQL, dan memanfaatkan XAMPP sebagai server lokal.  
   
 ## Prerequisites  
   
