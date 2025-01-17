@@ -34,9 +34,10 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 ## Kontak  
   
 Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya melalui [email](mailto:111202113736@mhs.dinus.ac.id).
-WD05 - Bimbingan Karier
+
 
 ```bash
+WD05 - Bimbingan Karier
 Agus Arifudin
 A11.2021.13736
 ```  
