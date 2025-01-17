@@ -17,7 +17,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
    - Ekstrak file yang telah diunduh ke dalam folder yang diinginkan.  
   
 3. **Salin File ke Folder XAMPP**  
-   - Pindahkan folder yang telah diekstrak ke dalam direktori `htdocs` di folder instalasi XAMPP Anda. Contoh: `C:\xampp\htdocs\WebPoliBK`.  
+   - Pindahkan folder yang telah diekstrak ke dalam direktori `htdocs` di folder instalasi XAMPP Anda. Contoh: `C:\xampp\htdocs\Polibk-appointment`.  
   
 4. **Jalankan XAMPP**  
    - Buka aplikasi XAMPP dan jalankan modul Apache dan MySQL.  
